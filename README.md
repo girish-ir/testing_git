@@ -10,5 +10,6 @@ For testing Git
 -----
 ```{Python}
 import pandas as pd
+import numpy as np
 from google.cloud import bigquery
 ```
