@@ -10,4 +10,5 @@ For testing Git
 -----
 ```{Python}
 import pandas as pd
+import numpy as np
 ```
