@@ -7,9 +7,3 @@ For testing Git
 1. Item 1
 2. Item 2
 
------
-```{Python}
-import pandas as pd
-import numpy as np
-from google.cloud import bigquery
-```
